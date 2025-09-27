@@ -17,6 +17,6 @@ I’m an independent researcher.
 
 - [LinkedIn](https://www.linkedin.com/in/aidataquantum/)
 - [X (Twitter)](https://x.com/AIDataQuantum)
-- [Linktree](https://linktr.ee/aidataquantum)
+- [Linktree](https://linktr.ee/alfonsoaidata)
 
 > Always exploring. Always learning. Always building for a better future.
