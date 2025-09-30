@@ -10,13 +10,13 @@ I’m an independent researcher.
 
 ## What I do
 
-- Analyze data from [DestinE Platform](https://platform.destine.eu/), [NASA Earthdata](https://earthdata.nasa.gov) and other open data sources.
+- Analyze data and open data sources.
 - Open to collaboration on projects related to sustainability, data-driven insights, and impact tech.
 
 ## How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/aidataquantum/)
-- [X (Twitter)](https://x.com/AIDataQuantum)
+- [LinkedIn](https://www.linkedin.com/in/alfonsoaidata/)
+- [X (Twitter)](https://x.com/alfonsoAIData)
 - [Linktree](https://linktr.ee/alfonsoaidata)
 
 > Always exploring. Always learning. Always building for a better future.
