@@ -1,6 +1,6 @@
 # Hi, I'm Alfonso Rodríguez
 
-I’m an independent researcher. 
+I’m an independent researcher and creator of CLIMA TERRA, a global climate platform where I explore how data, sustainability, visual storytelling and emerging technologies can help people understand the world around them. 
 
 ## Current Focus
 
