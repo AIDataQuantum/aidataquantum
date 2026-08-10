@@ -1,22 +1,52 @@
 # Hi, I'm Alfonso Rodríguez
 
-I’m an independent researcher and creator of CLIMA TERRA, a global climate platform where I explore how data, sustainability, visual storytelling and emerging technologies can help people understand the world around them. 
+**Digital Experience Creator focused on Climate & Sustainability**
 
-## Current Focus
+I create clear, visual and interactive digital experiences that connect **climate, sustainability, data and technology** to help people better understand the world around them.
 
-- Making complex ideas accessible through storytelling and visual content.
-- Investigating how data can empower sustainable development.
-- Exploring emerging technologies such as quantum computing, with curiosity and long-term vision.
+My work combines open data, visual storytelling, interaction and research to turn complex information into experiences that are easier to explore and understand.
 
-## What I do
+## Current Projects
 
-- Analyze data and open data sources.
-- Open to collaboration on projects related to sustainability, data-driven insights, and impact tech.
+### CLIMA TERRA — for people
 
-## How to reach me
+A continuously evolving climate experience focused on helping people understand environmental conditions around them through accessible and contextual information.
 
-- [LinkedIn](https://www.linkedin.com/in/alfonsoaidata/)
-- [X (Twitter)](https://x.com/alfonsoAIData)
-- [Linktree](https://linktr.ee/alfonsoaidata)
+CLIMA TERRA explores climate and environmental data including temperature, UV radiation, rain, wind, humidity and air quality, with an emphasis on clarity, transparency and usefulness.
 
-> Always exploring. Always learning. Always building for a better future.
+### ATLAS — for all
+
+A continuously evolving global experience for exploring natural events and phenomena around the world.
+
+ATLAS brings together open data from multiple authoritative sources to make earthquakes, wildfires, cyclones, volcanic activity and other events easier to discover and understand through an interactive global view.
+
+## What I Explore
+
+* Climate, environment and sustainability.
+* Open data and public data sources.
+* Data visualization and visual storytelling.
+* Interactive digital experiences.
+* Human-centered ways of communicating complex information.
+* Emerging technologies and their potential future applications.
+
+## How I Work
+
+I’m especially interested in transforming complex ideas and datasets into experiences that are:
+
+* **Clear** — information should be understandable.
+* **Visual** — design should help reveal meaning.
+* **Interactive** — exploration can improve understanding.
+* **Useful** — technology should serve a real purpose.
+* **Transparent** — sources, limitations and processing should be clear.
+* **Continuously evolving** — projects improve through research, experimentation and iteration.
+
+## Connect with me
+
+* [LinkedIn](https://www.linkedin.com/in/alfonsoaidata/)
+* [X](https://x.com/alfonsoAIData)
+* [Digital Business Card](https://alfonsoaidata.netlify.app/)
+
+**@alfonsoAIData**
+
+> Always exploring. Always learning. Always evolving.
+
